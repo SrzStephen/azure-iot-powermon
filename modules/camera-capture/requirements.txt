@@ -4,3 +4,5 @@ opencv-contrib-python
 requests
 trollius
 tornado==4.5.3
+knobs==2.0.2
+click==7.0
