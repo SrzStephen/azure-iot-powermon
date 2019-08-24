@@ -4,3 +4,4 @@ config/
 __MACOSX/
 dataset-resized*
 .venv/
+.idea
